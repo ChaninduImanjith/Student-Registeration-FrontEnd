@@ -22,9 +22,9 @@ export const CourseMaterial =() =>{
         <tr>
           <td>1</td>
           <td>Mark</td>
-          <td>Otto</td>
+          <td>Any</td>
           <td>@mdo</td>
-          <td>gyg</td>
+          <td>giga</td>
           <td>hjj</td>
           <td>@mdo</td>
         </tr>
